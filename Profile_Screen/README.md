@@ -1,3 +1,2 @@
-https://github.com/vuminhthanh3010/Flutter_Example/blob/main/Profile_Screen/Screen%20Shot%202022-09-08%20at%2022.01.38.png?raw=true
-
-https://github.com/vuminhthanh3010/Flutter_Example/blob/main/Profile_Screen/Screen%20Shot%202022-09-08%20at%2022.01.44.png?raw=true
+![Screen Shot 2022-09-08 at 22 01 38](https://user-images.githubusercontent.com/37183228/189158762-7ad94a43-e282-4bb0-8d6d-954a16f84597.png)
+![Screen Shot 2022-09-08 at 22 01 44](https://user-images.githubusercontent.com/37183228/189158776-fe463de4-da52-409c-99f0-b6816aadf33b.png)
